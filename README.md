@@ -1,4 +1,5 @@
 <h1 align=center><b><i>Viruses and Code</i></b></h1>
+
 ----
 
 ### Interesting Links
@@ -104,12 +105,12 @@ it is default shutdown which happen in 30 sec
 else with timer
 
 ```
-shutdown.ext -s 00
+shutdown.exe -s 00
 ```
 
 or 
 
 ```
-shutdown.ext -s 100
+shutdown.exe -s 100
 ```
 
