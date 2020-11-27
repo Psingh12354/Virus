@@ -90,3 +90,26 @@ shutdown -s -t 100
 To use this you need to open this code in notepad and save it by .bat which means batch file
 Your system will got shutdown if selected no
 
+- Shutdown your system
+
+
+To simple shutdown
+
+```
+shutdown.exe -s 
+```
+
+it is default shutdown which happen in 30 sec
+
+else with timer
+
+```
+shutdown.ext -s 00
+```
+
+or 
+
+```
+shutdown.ext -s 100
+```
+
